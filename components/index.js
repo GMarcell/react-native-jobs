@@ -18,8 +18,8 @@ import NearbyJobCard from "./common/cards/nearby/NearbyJobCard";
 export {
   ScreenHeaderBtn,
   Welcome,
-  Nearbyjobs,
-  Popularjobs,
+  NearbyjJbs,
+  PopularJobs,
   Company,
   JobTabs,
   JobAbout,
