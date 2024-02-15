@@ -8,6 +8,8 @@
       "expo-router"
     ],
     "name": "react-native-jobs",
-    "slug": "react-native-jobs"
-  }
+    "slug": "react-native-jobs",
+    "sdkVersion": "50.0.0"
+  },
+  "name": "react-native-jobs"
 }
