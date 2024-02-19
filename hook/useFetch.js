@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
-import {REACT_APP_RAPID_API_KEY} from '@env'
 
 const rapidApiKey = process.env.REACT_APP_RAPID_API_KEY;
 
